@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br"></html>
+    <head>
+        <meta charset="UTF-8">
+        <title> O futebol no Brasil </title>
+        <style>
+            body{background-color:#FFEFD5}
+        </style>
+    </head>
+    <body>
+        <h1>O futebol no Brasil vai além do esporte</h1>
+
+        <p>Ultrapassando o gramado, ele é parte da cultura brasileira, influenciando até mesmo a política e a economia do nosso país.
+         São milhões de brasileiros apaixonados pelo esporte, defendendo o futebol com unhas e dentes e fazendo com que seu alcance cresça a cada dia.</p>
+
+        <p>Todos sabem que o Brasil é conhecido como o “país do futebol”. Mas você saberia dizer de onde vem esse apelido? Foram os títulos? A paixão nacional 
+            pelo esporte? Heranças históricas? Talvez não exista uma única resposta certa. Porém, um bom ponto de partida para entender como chegamos até aqui, é conhecer mais da história do futebol no Brasil e no mundo.
+        
+            <img src="https://blog.savegnago.com.br/wp-content/uploads/2021/04/futebol-no-brasil-03.jpg">
+    </body>    
+</html>
